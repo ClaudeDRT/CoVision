@@ -1,4 +1,4 @@
-These are the lines in terminal that you hav to run once you've endered the first folder in the zip file to be able to locally run the website:
+These are the lines in terminal that you hav to run once you've endered the first folder in the zip file to be able to locally run the website (requires Python 3.7):
 
 pip install django==2.1.5;
 django-admin startproject mysite;
